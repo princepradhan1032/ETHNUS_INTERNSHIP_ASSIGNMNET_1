@@ -1,1 +1,1 @@
-# ETHNUS_INTERNSHIP_ASSIGNMNET_1
+# AssignmentEthnus1
